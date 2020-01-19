@@ -1,0 +1,16 @@
+{
+  "books": [
+    {
+      "price": "R$ 0,00",
+      "name": "Livro Teste 4",
+      "author": "Autor Teste 4",
+      "id": 4
+    },
+    {
+      "price": "R$ 15,00",
+      "name": "Livro Teste 1",
+      "author": "Autor Teste 1",
+      "id": 5
+    }
+  ]
+}
